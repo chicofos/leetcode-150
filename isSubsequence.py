@@ -2,7 +2,7 @@ def isSubsequence(s, t):
     
     # ---------------------------------------
     #   Time Complexity: O(s + t)
-    #   Time Complexity: O(s + t)
+    #   Space Complexity: O(s + t)
     # ---------------------------------------
     
     # p1, p2 = 0, 0
